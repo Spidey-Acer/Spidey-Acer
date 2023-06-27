@@ -4,7 +4,31 @@ Welcome to my GitHub Page!
 
 ## About Me
 
-I am a versatile professional with a passion for both graphic design and web development. I specialize in creating visually stunning designs and developing interactive and user-friendly websites. With a strong blend of creativity and technical expertise, I strive to deliver exceptional results.
+Software Developer | Full-Stack Web Developer | Microverse Student
+
+👨‍💻 Passionate about creating exceptional web experiences
+
+🌐 Currently pursuing further studies at Microverse Online Software Engineering School
+
+🎯 Specializing in front-end development with expertise in HTML, CSS, and JavaScript
+
+🌱 Constantly learning and exploring new technologies to stay ahead in the ever-evolving web development landscape
+
+🚀 Committed to delivering clean, efficient, and user-centric code
+
+💡 Strong problem-solving skills and a keen eye for detail
+
+🤝 Collaborative team player with excellent communication skills
+
+🌟 Dedicated to creating seamless user interfaces and memorable user experiences
+
+📚 Continuously expanding knowledge through self-driven projects and open-source contributions
+
+🌍 Enthusiastic about building websites that make a positive impact on people's lives
+
+🏆 Committed to personal and professional growth to become a well-rounded software developer
+
+Let's connect and build the future of the web together! 🌐✨
 
 ## Tech Stack
 

@@ -1,6 +1,6 @@
 <img align="center" width="100%" alt="" src="https://github.com/Peter-Kibet/Peter-Kibet/blob/master/gifs/cdr.gif" />
 
-## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Mir Peter Kibet!](https://Peter-Kibet.me/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://komarev.com/ghpvc/?username=Peter-Kibet" height="20px">
+## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Mr Peter Kibet!](https://Peter-Kibet.me/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://komarev.com/ghpvc/?username=Peter-Kibet" height="20px">
 
 I am a graduate 🎓 with a strong background in computer science 💻 and experience in exploratory data analysis, machine learning, computer vision, and statistics 🔥. Currently, I am working as a **Research Assistant** 🧑‍🔬 at the [**Center for Computational and Data Sciences (CCDS), IUB**](http://ccds.ai/) 🏛️. My research interests include Computer Vision, Geometric Machine Learning, Group theory, and Manifold learning ✨. As I am passionate about learning new topics in data science, visualizing data, and conducting research 🤓, I enjoy sharing valuable insights 🧐 and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or share concerns 💬.
 
@@ -29,131 +29,73 @@ I am a graduate 🎓 with a strong background in computer science 💻 and exper
 
 ## 🛠️ Languages and Tools I use:
 
-<p align="center"> 
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="35" height="35"/></code>
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.w3schools.com/cs/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.java.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.python.org" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://sass-lang.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.php.net" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://getbootstrap.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://angular.io" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://redux.js.org" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://nodejs.org" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://expressjs.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://laravel.com/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="35" height="35"/></code> 
-    </a> 
-    <a href="" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://firebase.google.com/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://aws.amazon.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://canvasjs.com" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.chartjs.org" target="_blank"> 
-        <code><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://developer.android.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://kotlinlang.org" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://flutter.dev" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://reactnative.dev/" target="_blank"> 
-        <code><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://code.visualstudio.com" target="_blank">
-        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/></code>
-    </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.photoshop.com/en" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.figma.com/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/></code> 
-    </a> 
-    <a href="" target="_blank"> 
-        <code><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://opencv.org/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://pytorch.org/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.tensorflow.org" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></code> 
-    </a> 
-</p>
-<br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="50" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="50" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" width="50" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-line.svg" height="40" width="50" alt="grunt logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="50" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="50" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="50" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="50" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" width="50" alt="babel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" width="50" alt="threejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" width="50" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="50" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" width="50" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="50" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="50" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="50" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="50" alt="graphql logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="40" width="50" alt="denojs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="50" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="50" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="50" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="50" alt="nestjs logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="50" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="50" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="40" width="50" alt="mongodb logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" width="50" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="50" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="50" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="50" alt="jupyter logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="50" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="50" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="50" alt="gitlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="50" alt="docker logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="50" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="50" alt="vscode logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="50" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="50" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="50" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="50" alt="firebase logo"  />
 
-## 🎧 Spotify Playing:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" width="50" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="50" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="50" alt="kotlin logo"  />
 
-<p align="center">
-    <a href="https://open.spotify.com/user/6stg0uh40gbo4bd99reck41s6" target="_blank"> 
-        <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Sazzat's Spotify" />
-    </a>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="50" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="50" alt="csharp logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="50" alt="cplusplus logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="50" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="50" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="50" alt="ubuntu logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="50" alt="debian logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="50" alt="raspberrypi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" width="50" alt="putty logo"  />
+</div>
+
 <br>
 
 ## 🏆 GitHub Trophies:
@@ -204,75 +146,6 @@ I am a graduate 🎓 with a strong background in computer science 💻 and exper
 ## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
-
-**🐱 My GitHub Data**
-
-> 📦 394.6 kB Used in GitHub's Storage
->
-> 🏆 199 Contributions in the Year 2024
->
-> 💼 Opted to Hire
->
-> 📜 32 Public Repositories
->
-> 🔑 18 Private Repositories
->
-> **I'm a Night 🦉**
-
-```text
-🌞 Morning                342 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-🌆 Daytime                1330 commits        ███████░░░░░░░░░░░░░░░░░░   28.27 %
-🌃 Evening                1246 commits        ███████░░░░░░░░░░░░░░░░░░   26.49 %
-🌙 Night                  1786 commits        █████████░░░░░░░░░░░░░░░░   37.97 %
-```
-
-📅 **I'm Most Productive on Monday**
-
-```text
-Monday                   995 commits         █████░░░░░░░░░░░░░░░░░░░░   21.15 %
-Tuesday                  779 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
-Wednesday                782 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
-Thursday                 364 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-Friday                   827 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 %
-Saturday                 484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-Sunday                   473 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 %
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages:
-Other                    4 hrs               █████████████████████░░░░   83.89 %
-Python                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-
-🔥 Editors:
-Google Calendar          4 hrs               █████████████████████░░░░   83.89 %
-VS Code                  46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
-
-🐱‍💻 Projects:
-Unknown Project          4 hrs               █████████████████████░░░░   83.89 %
-radio-galaxy-classifier  34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
-test-time-adaptation     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-
-💻 Operating System:
-Unknown OS               4 hrs               █████████████████████░░░░   83.89 %
-Linux                    46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
-```
-
-**I Mostly Code in Python**
-
-```text
-Python                   13 repos            ███████░░░░░░░░░░░░░░░░░░   29.55 %
-JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 %
-Jupyter Notebook         7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-```
-
 <!--END_SECTION:waka-->
 
 <p align="center">

@@ -1,25 +1,25 @@
-<img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
+<img align="center" width="100%" alt="" src="https://github.com/Peter-Kibet/Peter-Kibet/blob/master/gifs/cdr.gif" />
 
-## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Mir Sazzat Hossain!](https://mirsazzathossain.me/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://komarev.com/ghpvc/?username=mirsazzathossain" height="20px">
+## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Mir Peter Kibet!](https://Peter-Kibet.me/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://komarev.com/ghpvc/?username=Peter-Kibet" height="20px">
 
 I am a graduate 🎓 with a strong background in computer science 💻 and experience in exploratory data analysis, machine learning, computer vision, and statistics 🔥. Currently, I am working as a **Research Assistant** 🧑‍🔬 at the [**Center for Computational and Data Sciences (CCDS), IUB**](http://ccds.ai/) 🏛️. My research interests include Computer Vision, Geometric Machine Learning, Group theory, and Manifold learning ✨. As I am passionate about learning new topics in data science, visualizing data, and conducting research 🤓, I enjoy sharing valuable insights 🧐 and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or share concerns 💬.
 
-<p><a href="https://www.facebook.com/mirsazzathossainn/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:mirsazzathossain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/mir_sazzat"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
+<p><a href="https://www.facebook.com/Peter-Kibetn/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/Peter-Kibet/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:Peter-Kibet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/mir_sazzat"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
 <br>
 
 ## ⚡ A Few Quick Facts:
 
-<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
+<img align="right" src="https://github.com/Peter-Kibet/Peter-Kibet/blob/master/gifs/octocat-anime.gif" />
 
 - 🔭 I’m currently working on multiple projects on Computer Vision.
 - 🧮 I’m currently learning Lie algebra.
 - 👯 I’m looking to collaborate on any Computer Vision related research project.
 - 🤔 I’m looking for help with Lie algebra, Group theory & Manifold.
 - 💬 Ask me about anything related to the latest tech.
-- 📫 How to reach me: [Gmail](mailto:mirsazzathossain@gmail.com)
+- 📫 How to reach me: [Gmail](mailto:Peter-Kibet@gmail.com)
 - 😄 Pronouns: He/Him
-- 🧾 Check out my [resume](https://mirsazzathossain.me/files/mirsazzathossain-cv.pdf).
-- 📝 I often write articles on [my blog](https://mirsazzathossain.me/articles).
+- 🧾 Check out my [resume](https://Peter-Kibet.me/files/Peter-Kibet-cv.pdf).
+- 📝 I often write articles on [my blog](https://Peter-Kibet.me/articles).
 - ⚡ Fun fact: I have become too lazy to write a blog post these days.. 🤣
 
 &nbsp;&nbsp;&nbsp;&nbsp;If you like what I do, maybe consider buying me a coffee/tea..
@@ -159,20 +159,20 @@ I am a graduate 🎓 with a strong background in computer science 💻 and exper
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mirsazzathossain&column=8&row=1">
+    <img src="https://github-profile-trophy.vercel.app/?username=Peter-Kibet&column=8&row=1">
 </p>
 <br>
 
 ## 📈 GitHub Contribution Graph:
 
 <div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=mirsazzathossain&theme=minimal"/>
+    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=Peter-Kibet&theme=minimal"/>
 </div>
 <br>
 
 ## 📊 GitHub Stats:
 
-<img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsazzathossain&theme=white&&hide_border=true" width='48%' /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+<img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Peter-Kibet&theme=white&&hide_border=true" width='48%' /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=Peter-Kibet&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 <br>
 
 ## 🚧 Open source projects:
@@ -190,12 +190,12 @@ I am a graduate 🎓 with a strong background in computer science 💻 and exper
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/mirsazzathossain/mirsazzathossain.me.git"><b>mirsazzathossain.me</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Language" src="https://img.shields.io/github/languages/top/mirsazzathossain/mirsazzathossain.me?style=flat-square"/></td>
+            <td><a href="https://github.com/Peter-Kibet/Peter-Kibet.me.git"><b>Peter-Kibet.me</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/Peter-Kibet/Peter-Kibet.me?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/Peter-Kibet/Peter-Kibet.me?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/Peter-Kibet/Peter-Kibet.me?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Peter-Kibet/Peter-Kibet.me?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Language" src="https://img.shields.io/github/languages/top/Peter-Kibet/Peter-Kibet.me?style=flat-square"/></td>
         </tr>
     </tbody>
 </table>
@@ -204,76 +204,74 @@ I am a graduate 🎓 with a strong background in computer science 💻 and exper
 ## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
 
-> 📦 394.6 kB Used in GitHub's Storage 
- > 
+**🐱 My GitHub Data**
+
+> 📦 394.6 kB Used in GitHub's Storage
+>
 > 🏆 199 Contributions in the Year 2024
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 32 Public Repositories 
- > 
-> 🔑 18 Private Repositories 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 32 Public Repositories
+>
+> 🔑 18 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning                342 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-🌆 Daytime                1330 commits        ███████░░░░░░░░░░░░░░░░░░   28.27 % 
-🌃 Evening                1246 commits        ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-🌙 Night                  1786 commits        █████████░░░░░░░░░░░░░░░░   37.97 % 
+🌞 Morning                342 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+🌆 Daytime                1330 commits        ███████░░░░░░░░░░░░░░░░░░   28.27 %
+🌃 Evening                1246 commits        ███████░░░░░░░░░░░░░░░░░░   26.49 %
+🌙 Night                  1786 commits        █████████░░░░░░░░░░░░░░░░   37.97 %
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday                   995 commits         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-Tuesday                  779 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Wednesday                782 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Thursday                 364 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Friday                   827 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Saturday                 484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Sunday                   473 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Monday                   995 commits         █████░░░░░░░░░░░░░░░░░░░░   21.15 %
+Tuesday                  779 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
+Wednesday                782 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+Thursday                 364 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+Friday                   827 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 %
+Saturday                 484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+Sunday                   473 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Dhaka
 
-💬 Programming Languages: 
-Other                    4 hrs               █████████████████████░░░░   83.89 % 
-Python                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+💬 Programming Languages:
+Other                    4 hrs               █████████████████████░░░░   83.89 %
+Python                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 
-🔥 Editors: 
-Google Calendar          4 hrs               █████████████████████░░░░   83.89 % 
-VS Code                  46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+🔥 Editors:
+Google Calendar          4 hrs               █████████████████████░░░░   83.89 %
+VS Code                  46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
 
-🐱‍💻 Projects: 
-Unknown Project          4 hrs               █████████████████████░░░░   83.89 % 
-radio-galaxy-classifier  34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-test-time-adaptation     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+🐱‍💻 Projects:
+Unknown Project          4 hrs               █████████████████████░░░░   83.89 %
+radio-galaxy-classifier  34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
+test-time-adaptation     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
 
-💻 Operating System: 
-Unknown OS               4 hrs               █████████████████████░░░░   83.89 % 
-Linux                    46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+💻 Operating System:
+Unknown OS               4 hrs               █████████████████████░░░░   83.89 %
+Linux                    46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   13 repos            ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Jupyter Notebook         7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python                   13 repos            ███████░░░░░░░░░░░░░░░░░░   29.55 %
+JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 %
+Jupyter Notebook         7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
-
-
-
 
 <!--END_SECTION:waka-->
 

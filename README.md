@@ -1,80 +1,282 @@
-## Peter Kibet - Graphic Designer & Web Developer
+<img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
 
-Hi👋 Welcome to my GitHub Page! <br>
+## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Mir Sazzat Hossain!](https://mirsazzathossain.me/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://komarev.com/ghpvc/?username=mirsazzathossain" height="20px">
 
-### Full-Stack Web Developer | Graphics Designer | Microverse Student
+I am a graduate 🎓 with a strong background in computer science 💻 and experience in exploratory data analysis, machine learning, computer vision, and statistics 🔥. Currently, I am working as a **Research Assistant** 🧑‍🔬 at the [**Center for Computational and Data Sciences (CCDS), IUB**](http://ccds.ai/) 🏛️. My research interests include Computer Vision, Geometric Machine Learning, Group theory, and Manifold learning ✨. As I am passionate about learning new topics in data science, visualizing data, and conducting research 🤓, I enjoy sharing valuable insights 🧐 and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or share concerns 💬.
 
-<img alt="Coder GIF" height=300 width=500 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<p><a href="https://www.facebook.com/mirsazzathossainn/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mirsazzathossain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:mirsazzathossain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/mir_sazzat"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
+<br>
+
+## ⚡ A Few Quick Facts:
+
+<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
+
+- 🔭 I’m currently working on multiple projects on Computer Vision.
+- 🧮 I’m currently learning Lie algebra.
+- 👯 I’m looking to collaborate on any Computer Vision related research project.
+- 🤔 I’m looking for help with Lie algebra, Group theory & Manifold.
+- 💬 Ask me about anything related to the latest tech.
+- 📫 How to reach me: [Gmail](mailto:mirsazzathossain@gmail.com)
+- 😄 Pronouns: He/Him
+- 🧾 Check out my [resume](https://mirsazzathossain.me/files/mirsazzathossain-cv.pdf).
+- 📝 I often write articles on [my blog](https://mirsazzathossain.me/articles).
+- ⚡ Fun fact: I have become too lazy to write a blog post these days.. 🤣
+
+&nbsp;&nbsp;&nbsp;&nbsp;If you like what I do, maybe consider buying me a coffee/tea..
+
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/mirsazzat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a>
+<br>
+
+## 🛠️ Languages and Tools I use:
+
+<p align="center"> 
+    <a href="https://www.cprogramming.com/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="35" height="35"/></code>
+    </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.w3schools.com/cs/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.java.com" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.python.org" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://sass-lang.com" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.php.net" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://getbootstrap.com" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://reactjs.org/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://angular.io" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://redux.js.org" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://nodejs.org" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://expressjs.com" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://laravel.com/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="35" height="35"/></code> 
+    </a> 
+    <a href="" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://firebase.google.com/" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://aws.amazon.com" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://canvasjs.com" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.chartjs.org" target="_blank"> 
+        <code><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://developer.android.com" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://kotlinlang.org" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://flutter.dev" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://reactnative.dev/" target="_blank"> 
+        <code><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://code.visualstudio.com" target="_blank">
+        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/></code>
+    </a>
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.photoshop.com/en" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.figma.com/" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/></code> 
+    </a> 
+    <a href="" target="_blank"> 
+        <code><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://opencv.org/" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://pytorch.org/" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.tensorflow.org" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></code> 
+    </a> 
+</p>
+<br>
+
+## 🎧 Spotify Playing:
+
+<p align="center">
+    <a href="https://open.spotify.com/user/6stg0uh40gbo4bd99reck41s6" target="_blank"> 
+        <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Sazzat's Spotify" />
+    </a>
+</p>
+<br>
+
+## 🏆 GitHub Trophies:
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mirsazzathossain&column=8&row=1">
+</p>
+<br>
+
+## 📈 GitHub Contribution Graph:
+
+<div align="center">
+    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=mirsazzathossain&theme=minimal"/>
+</div>
+<br>
+
+## 📊 GitHub Stats:
+
+<img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsazzathossain&theme=white&&hide_border=true" width='48%' /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+<br>
+
+## 🚧 Open source projects:
+
+<table align="center">
+    <thead align="center">
+        <tr border: none;>
+            <td><b>🎁 Projects</b></td>
+            <td><b>⭐ Stars</b></td>
+            <td><b>📚 Forks</b></td>
+            <td><b>🛎 Issues</b></td>
+            <td><b>📬 Pull requests</b></td>
+            <td><b>👨‍💻 Language</b></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/mirsazzathossain/mirsazzathossain.me.git"><b>mirsazzathossain.me</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Language" src="https://img.shields.io/github/languages/top/mirsazzathossain/mirsazzathossain.me?style=flat-square"/></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+## 🕑 Wakatime Stats:
+
+<!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 📦 394.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 199 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 32 Public Repositories 
+ > 
+> 🔑 18 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                342 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+🌆 Daytime                1330 commits        ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+🌃 Evening                1246 commits        ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+🌙 Night                  1786 commits        █████████░░░░░░░░░░░░░░░░   37.97 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   995 commits         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+Tuesday                  779 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Wednesday                782 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Thursday                 364 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Friday                   827 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Saturday                 484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Sunday                   473 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+```
 
 
-# <p style=" text=align: center;">👨🏿‍💻About Me:<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> </p>
+📊 **This Week I Spent My Time On** 
 
-👋 Hi there! I'm a Full-Stack Web Developer and Graphic Designer. I love creating exceptional web experiences and visually appealing designs. Currently, I'm studying at Microverse, an online software engineering school, to learn how to write clean, efficient, and user-centric code. My specialization lies in front-end development with HTML, CSS, and JavaScript 🚀.
+```text
+🕑︎ Time Zone: Asia/Dhaka
 
-I'm constantly exploring new technologies 💡 to stay ahead in the ever-evolving web development landscape. With strong problem-solving skills 🧠 and a keen eye for detail 👀, I enjoy collaborating with other developers 👥 and contributing to open-source projects 🌟.
+💬 Programming Languages: 
+Other                    4 hrs               █████████████████████░░░░   83.89 % 
+Python                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
-As a Graphic Designer, I'm skilled in creating visually appealing designs using Adobe Creative Suite (Photoshop, Illustrator, InDesign). I have experience in designing logos, brochures, and other marketing materials. Combining my programming skills with design expertise, I strive to deliver exceptional web experiences.
+🔥 Editors: 
+Google Calendar          4 hrs               █████████████████████░░░░   83.89 % 
+VS Code                  46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
 
-Passionate about building websites that make a positive impact on people's lives 💫, I'm committed to personal and professional growth 📚 to become a well-rounded software developer. Let's connect and build the future of the web together! 🌐✨
+🐱‍💻 Projects: 
+Unknown Project          4 hrs               █████████████████████░░░░   83.89 % 
+radio-galaxy-classifier  34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+test-time-adaptation     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
-# Tech Stack
+💻 Operating System: 
+Unknown OS               4 hrs               █████████████████████░░░░   83.89 % 
+Linux                    46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+```
 
-## `Web Development:`
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
-![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
+**I Mostly Code in Python** 
 
-
-## `Graphics Design:`
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Peter-Kibet&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Peter-Kibet&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Kibet&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Peter_Montana_J)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
----
-[![](https://visitcount.itsvg.in/api?id=Peter-Kibet&icon=0&color=0)](https://visitcount.itsvg.in)
+```text
+Python                   13 repos            ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Jupyter Notebook         7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+```
 
 
 
-## Contact Me
 
-Let's connect and discuss potential opportunities:
+<!--END_SECTION:waka-->
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/peterkibet2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/peter_jamesons_k/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/peter-jk-077148195/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Peter_Montana_J) 
-
-Feel free to reach out to discuss collaborations or any inquiries.
-
-Thank you for visiting my portfolio!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>

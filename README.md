@@ -1,10 +1,10 @@
-<img align="center" width="100%" alt="" src="https://github.com/Peter-Kibet/Peter-Kibet/blob/master/gifs/cdr.gif" />
+<img align="center" width="100%" alt="" src="./gifs/XBanner.png" />
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Mr Peter Kibet!](https://Peter-Kibet.me/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://komarev.com/ghpvc/?username=Peter-Kibet" height="20px">
 
-I am a graduate 🎓 with a strong background in computer science 💻 and experience in exploratory data analysis, machine learning, computer vision, and statistics 🔥. Currently, I am working as a **Research Assistant** 🧑‍🔬 at the [**Center for Computational and Data Sciences (CCDS), IUB**](http://ccds.ai/) 🏛️. My research interests include Computer Vision, Geometric Machine Learning, Group theory, and Manifold learning ✨. As I am passionate about learning new topics in data science, visualizing data, and conducting research 🤓, I enjoy sharing valuable insights 🧐 and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or share concerns 💬.
+I am a graduate 🎓 with a strong background in computer science 💻 and experience in exploratory data analysis, machine learning, computer vision, and statistics 🔥. Currently, I am working as a **Software Engineer Fellow** at [**Headstarter AI**](http://headstarter.com/) 🚀. My research interests include Computer Vision, Geometric Machine Learning, Group Theory, and Manifold Learning ✨. As I am passionate about learning new topics in data science, visualizing data, and conducting research 🤓, I enjoy sharing valuable insights 🧐 and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or share concerns 💬.
 
-<p><a href="https://www.facebook.com/Peter-Kibetn/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/Peter-Kibet/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:Peter-Kibet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/mir_sazzat"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
+<p><a href="https://www.facebook.com/Peter-Kibetn/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/Peter-Kibet/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:peter.j.kibet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/mir_sazzat"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
 <br>
 
 ## ⚡ A Few Quick Facts:
@@ -16,7 +16,7 @@ I am a graduate 🎓 with a strong background in computer science 💻 and exper
 - 👯 I’m looking to collaborate on any Computer Vision related research project.
 - 🤔 I’m looking for help with Lie algebra, Group theory & Manifold.
 - 💬 Ask me about anything related to the latest tech.
-- 📫 How to reach me: [Gmail](mailto:Peter-Kibet@gmail.com)
+- 📫 How to reach me: [Gmail](mailto:peter.j.kibet@gmail.com)
 - 😄 Pronouns: He/Him
 - 🧾 Check out my [resume](https://Peter-Kibet.me/files/Peter-Kibet-cv.pdf).
 - 📝 I often write articles on [my blog](https://Peter-Kibet.me/articles).
@@ -114,33 +114,7 @@ I am a graduate 🎓 with a strong background in computer science 💻 and exper
 
 ## 📊 GitHub Stats:
 
-<img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Peter-Kibet&theme=white&&hide_border=true" width='48%' /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=Peter-Kibet&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
-<br>
-
-## 🚧 Open source projects:
-
-<table align="center">
-    <thead align="center">
-        <tr border: none;>
-            <td><b>🎁 Projects</b></td>
-            <td><b>⭐ Stars</b></td>
-            <td><b>📚 Forks</b></td>
-            <td><b>🛎 Issues</b></td>
-            <td><b>📬 Pull requests</b></td>
-            <td><b>👨‍💻 Language</b></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://github.com/Peter-Kibet/Peter-Kibet.me.git"><b>Peter-Kibet.me</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Peter-Kibet/Peter-Kibet.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/Peter-Kibet/Peter-Kibet.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Peter-Kibet/Peter-Kibet.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Peter-Kibet/Peter-Kibet.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Language" src="https://img.shields.io/github/languages/top/Peter-Kibet/Peter-Kibet.me?style=flat-square"/></td>
-        </tr>
-    </tbody>
-</table>
+<img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Peter-Kibet&theme=white&&hide_border=true" width='48%' /> <img alt="Peter's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=Peter-Kibet&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 <br>
 
 ## 🕑 Wakatime Stats:

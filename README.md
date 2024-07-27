@@ -11,21 +11,15 @@ I am a graduate 🎓 with a strong background in computer science 💻 and exper
 
 <img align="right" src="https://github.com/Peter-Kibet/Peter-Kibet/blob/master/gifs/octocat-anime.gif" />
 
-- 🔭 I’m currently working on multiple projects on Computer Vision.
-- 🧮 I’m currently learning Lie algebra.
-- 👯 I’m looking to collaborate on any Computer Vision related research project.
-- 🤔 I’m looking for help with Lie algebra, Group theory & Manifold.
-- 💬 Ask me about anything related to the latest tech.
-- 📫 How to reach me: [Gmail](mailto:peter.j.kibet@gmail.com)
-- 😄 Pronouns: He/Him
-- 🧾 Check out my [resume](https://Peter-Kibet.me/files/Peter-Kibet-cv.pdf).
-- 📝 I often write articles on [my blog](https://Peter-Kibet.me/articles).
-- ⚡ Fun fact: I have become too lazy to write a blog post these days.. 🤣
-
-&nbsp;&nbsp;&nbsp;&nbsp;If you like what I do, maybe consider buying me a coffee/tea..
-
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/mirsazzat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a>
-<br>
+- 🔭 **Current Work:** Engaged in multiple projects focused on Computer Vision.
+- 🧮 **Learning:** Enhancing skills in Python and initiating a startup called Cooky Chef.
+- 👯 **Collaboration:** Open to collaborating on research projects related to Computer Vision.
+- 🤔 **Seeking Assistance:** Looking for expertise in Group Theory and Manifold.
+- 💬 **Ask Me About:** Anything related to the latest technology trends.
+- 📫 **Contact:** Reach me via [email](mailto:peterkibet@spideyinc.com).
+- 😄 **Pronouns:** He/Him
+- 🧾 **Resume:** View my [resume](https://docs.google.com/document/d/1NIJmHwj6KTvTC9N_5BUy-HQyiT_M8gj6/edit?usp=sharing&ouid=117793958848832542855&rtpof=true&sd=true).
+- 📝 **Blog:** Read my articles on [Medium](https://medium.com/@peterjamesonsmontana).
 
 ## 🛠️ Languages and Tools I use:
 
@@ -45,7 +39,9 @@ I am a graduate 🎓 with a strong background in computer science 💻 and exper
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" width="50" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="50" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" width="50" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="50" alt="tailwindcss logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="50"/>
+          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="50" alt="materialui logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="50" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="50" alt="graphql logo"  />
@@ -54,8 +50,9 @@ I am a graduate 🎓 with a strong background in computer science 💻 and exper
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="50" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="50" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="50" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="50" alt="nestjs logo"  />
   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" width="50"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="50" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="50" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="40" width="50" alt="mongodb logo"  />
@@ -74,7 +71,9 @@ I am a graduate 🎓 with a strong background in computer science 💻 and exper
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="50" alt="visualstudio logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="50" alt="vscode logo"  />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="50" alt="amazonwebservices logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="50"/>
+          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="50" alt="googlecloud logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="50" alt="azure logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="50" alt="firebase logo"  />
@@ -120,6 +119,7 @@ I am a graduate 🎓 with a strong background in computer science 💻 and exper
 ## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 <p align="center">

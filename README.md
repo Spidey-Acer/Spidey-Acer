@@ -119,7 +119,6 @@ I am a graduate 🎓 with a strong background in computer science 💻 and exper
 ## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <p align="center">

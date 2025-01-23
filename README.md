@@ -6,7 +6,7 @@
 # <p align="center">Hey there 👋, I'm Spidey-Acer!</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Spidey-Acer/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/peter-kibet/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://medium.com/@peterjamesonsmontana"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25></a>
   <a href="mailto:peterkibet@spideyinc.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>

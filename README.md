@@ -13,9 +13,9 @@
 
 ---
 
-## 🎨 Graphic Designer | 💻 Software Engineer
+## 💻 Software Engineer
 
-Blending creativity with code to craft seamless digital experiences. Currently a **Commercial Intern** at **Diageo (EABL HQ)**.
+Blending creativity with code to craft seamless digital experiences. Currently a **Freelancer**.
 
 ---
 

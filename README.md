@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-**AI & Cloud Engineer ** | Currently **Freelancing**
+**AI & Cloud Engineer** | Currently **Freelancing**
 
 ## 🎯 Current Focus
 

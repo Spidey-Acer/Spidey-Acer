@@ -14,22 +14,15 @@
 
 ## 🚀 About Me
 
-**Software Engineer & Digital Innovator** | Currently **Freelancing**
-
-I blend creativity with code to craft seamless digital experiences. Passionate about full-stack development, design principles, and emerging technologies.
+**AI & Cloud Engineer ** | Currently **Freelancing**
 
 ## 🎯 Current Focus
 
 - 🔭 **Building:** REHub (resource-sharing platform) & SpideyInc (E-commerce platform)
-- 🌱 **Learning:** Advanced Python & Entrepreneurship through Cooky Chef startup
-- 🤝 **Collaborating:** Open to Computer Vision projects
+- 🌱 **Learning:** Advanced Python & Entrepreneurship 
+- 🤝 **Collaborating:** Open to collaboration 
 - 💬 **Expertise:** Full-stack development, Design principles, Latest tech trends
 
-## 🎓 Education
-
-- **BSc (Hons) Information Technology** - Technical University of Mombasa
-- **Software Engineering Certification** - Microverse
-- **Graphic Design Specialization** - Envato Plus
 
 
 ## 📊 GitHub Statistics
@@ -55,13 +48,6 @@ I blend creativity with code to craft seamless digital experiences. Passionate a
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Spidey-Acer&theme=dark_dimmed&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 

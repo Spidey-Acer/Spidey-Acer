@@ -6,21 +6,21 @@
 <!-- ═══════════════════════════ ANIMATED TAGLINE ═══════════════════════════ -->
 <p align="center">
   <a href="https://github.com/Spidey-Acer">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=Solo+founder+shipping+production+AI+software;Building+MkulimaOS+for+real+Kenyan+farms;Claude+Community+Ambassador+%F0%9F%87%B0%F0%9F%87%AA;Don't+just+plan+it+%E2%80%94+ship+it." alt="Typing tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=720&lines=Solo+founder+shipping+production+AI+software;Building+MkulimaOS+for+real+Kenyan+farms;Claude+Community+Ambassador+%F0%9F%87%B0%F0%9F%87%AA;Don't+just+plan+it+%E2%80%94+ship+it." alt="Typing tagline" />
   </a>
 </p>
 
 <!-- ═══════════════════════════ SOCIAL BADGES ═══════════════════════════ -->
 <div align="center">
 
-[![Website](https://img.shields.io/badge/peterkibet.co.ke-0B0E1A?style=for-the-badge&logo=google-chrome&logoColor=06B6D4)](https://www.peterkibet.co.ke)
+[![Website](https://img.shields.io/badge/peterkibet.co.ke-06140D?style=for-the-badge&logo=google-chrome&logoColor=4ADE80)](https://www.peterkibet.co.ke)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-kibet/)
 [![X](https://img.shields.io/badge/@spideyinc-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/spideyinc)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@peterjamesonsmontana)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peterkibet@spideyinc.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Spidey-Acer&label=Profile%20views&color=7C3AED&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/Spidey-Acer?label=Follow&style=for-the-badge&color=06B6D4&logo=github)](https://github.com/Spidey-Acer)
+![Profile Views](https://komarev.com/ghpvc/?username=Spidey-Acer&label=Profile%20views&color=22C55E&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/Spidey-Acer?label=Follow&style=for-the-badge&color=4ADE80&logo=github)](https://github.com/Spidey-Acer)
 
 </div>
 
@@ -122,21 +122,21 @@ A committee of five Claude agents — VC, CTO, customer, coach & chair — stres
 ## 📊 By the numbers
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spidey-Acer&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0B0E1A&title_color=7C3AED&icon_color=06B6D4&text_color=F8FAFC" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spidey-Acer&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0B0E1A&title_color=7C3AED&text_color=F8FAFC" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spidey-Acer&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=06140D&title_color=22C55E&icon_color=4ADE80&text_color=F8FAFC" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spidey-Acer&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=06140D&title_color=22C55E&text_color=F8FAFC" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spidey-Acer&theme=radical&hide_border=true&background=0B0E1A&stroke=7C3AED&ring=06B6D4&fire=7C3AED&currStreakLabel=06B6D4" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spidey-Acer&hide_border=true&background=06140D&stroke=22C55E&ring=4ADE80&fire=A3E635&currStreakLabel=4ADE80&sideNums=4ADE80&currStreakNum=F8FAFC&sideLabels=F8FAFC&dates=94A3B8" alt="GitHub streak" />
 </p>
 
-<!-- Contribution snake — auto-generated daily by .github/workflows/snake.yml -->
+<!-- Contribution graph — profile summary card (GitHub-green contribution bars) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Spidey-Acer/Spidey-Acer/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spidey-Acer&theme=github_dark" alt="Profile summary & contribution graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Spidey-Acer&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Spidey-Acer&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 </p>
 
 ---
@@ -156,7 +156,7 @@ A committee of five Claude agents — VC, CTO, customer, coach & chair — stres
 I'm open to **collaboration, founding-team conversations, and select client work.**
 If you're shipping something that matters — or need someone who does — **reach out.**
 
-[![Website](https://img.shields.io/badge/peterkibet.co.ke-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.peterkibet.co.ke)
+[![Website](https://img.shields.io/badge/peterkibet.co.ke-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.peterkibet.co.ke)
 [![Email](https://img.shields.io/badge/Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peterkibet@spideyinc.com)
 
 <br/>

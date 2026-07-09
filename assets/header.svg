@@ -3,36 +3,36 @@
 
   <defs>
     <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0B0E1A"/>
-      <stop offset="55%" stop-color="#10132A"/>
-      <stop offset="100%" stop-color="#12152B"/>
+      <stop offset="0%" stop-color="#06140D"/>
+      <stop offset="55%" stop-color="#0A1E14"/>
+      <stop offset="100%" stop-color="#0C2418"/>
     </linearGradient>
 
     <linearGradient id="nameGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8B5CF6"/>
-      <stop offset="55%" stop-color="#7C3AED"/>
-      <stop offset="100%" stop-color="#06B6D4"/>
+      <stop offset="0%" stop-color="#6EE7B7"/>
+      <stop offset="55%" stop-color="#22C55E"/>
+      <stop offset="100%" stop-color="#A3E635"/>
     </linearGradient>
 
     <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7C3AED"/>
-      <stop offset="100%" stop-color="#06B6D4"/>
+      <stop offset="0%" stop-color="#22C55E"/>
+      <stop offset="100%" stop-color="#A3E635"/>
     </linearGradient>
 
     <radialGradient id="dotGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#E0F2FE" stop-opacity="1"/>
-      <stop offset="45%" stop-color="#67E8F9" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#67E8F9" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#F0FDF4" stop-opacity="1"/>
+      <stop offset="45%" stop-color="#86EFAC" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#86EFAC" stop-opacity="0"/>
     </radialGradient>
 
     <radialGradient id="ambientViolet" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.28"/>
-      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#22C55E" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#22C55E" stop-opacity="0"/>
     </radialGradient>
 
     <radialGradient id="ambientCyan" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.20"/>
-      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#84CC16" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#84CC16" stop-opacity="0"/>
     </radialGradient>
 
     <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
@@ -107,7 +107,7 @@
   <text x="80" y="196" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="72" font-weight="700" fill="url(#nameGradient)" filter="url(#textShadow)" letter-spacing="-1">Peter Kibet</text>
 
   <!-- Handle -->
-  <text x="562" y="150" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="24" font-weight="600" fill="#67E8F9" opacity="0.92">@Spidey-Acer</text>
+  <text x="562" y="150" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="24" font-weight="600" fill="#86EFAC" opacity="0.92">@Spidey-Acer</text>
 
   <!-- Accent underline -->
   <rect x="80" y="216" width="320" height="3" rx="1.5" fill="url(#accentGradient)" opacity="0.7">

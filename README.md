@@ -3,21 +3,6 @@
   <img src="./assets/header.svg" alt="Peter Kibet — Solo Founder · Claude Ambassador Kenya · Software Engineer" width="100%" />
 </p>
 
-<!-- ═══════════════════════════ VIDEO INTRO ═══════════════════════════
-     Once you generate the HeyGen video (see HEYGEN-PRODUCTION.md):
-       1. Export the GIF preview to assets/intro-preview.gif
-       2. Replace VIDEO_URL below with your hosted video link (YouTube/Loom)
-     Until then this block stays hidden. Uncomment it to go live. -->
-<!--
-<p align="center">
-  <a href="VIDEO_URL">
-    <img src="./assets/intro-preview.gif" alt="▶ Watch my 40-second intro" width="720" />
-  </a>
-  <br/>
-  <sub><b>▶ Meet me in 40 seconds</b> — who I am, what I ship, why it matters.</sub>
-</p>
--->
-
 <!-- ═══════════════════════════ ANIMATED TAGLINE ═══════════════════════════ -->
 <p align="center">
   <a href="https://github.com/Spidey-Acer">
@@ -43,14 +28,27 @@
 
 ## 👋 Who I am
 
-I'm **Peter Kibet** — a **solo founder** who ships. Based in **Nairobi, Kenya 🇰🇪**, I build production AI software that runs real businesses, not slide decks.
+<table>
+<tr>
+<td width="230" valign="top" align="center">
+  <img src="https://avatars.githubusercontent.com/u/87215764?v=4" alt="Peter Kibet" width="200" />
+  <br/>
+  <sub><b>Peter Kibet</b> · Nairobi 🇰🇪</sub>
+</td>
+<td valign="top">
+
+I'm a **solo founder** who ships. Based in **Nairobi, Kenya**, I build production AI software that runs real businesses, not slide decks.
 
 - 🏢 **Founder** of **Spidey Labs Limited** — building [**MkulimaOS**](https://github.com/Spidey-Acer/mkulimaos), a farm-management platform **live on real Kenyan farms**.
 - 🤝 **Co-founder** of [**Verify**](https://github.com/Spidey-Acer/verify) — a public health-practitioner verification hub for Kenya.
-- 🧠 **Anthropic Claude Community Ambassador** for Kenya — growing East Africa's first Claude developer community at [**claudekenya.org**](https://claudekenya.org).
+- 🧠 **Anthropic Claude Community Ambassador** — growing one of East Africa's first Claude developer communities at [**claudekenya.org**](https://claudekenya.org).
 - 🌾 A **farmer** at heart — which is exactly why farm-tech that *actually works* matters to me.
 
 > *My rule is simple: don't just plan it — **ship it.***
+
+</td>
+</tr>
+</table>
 
 ---
 

@@ -38,12 +38,11 @@
 </td>
 <td valign="top">
 
-I'm the **Founder & CEO of [Spidey Labs Limited](https://spideylabs.tech)** — a registered Kenyan software company building production AI systems for African businesses. Based in **Nairobi, Kenya**, I've shipped **50+ projects** and I care about one thing: **software that ships and stays running.**
+I'm the **Founder & CEO of [Spidey Labs Limited](https://spideylabs.tech)** — a Kenyan software company building production AI systems for African businesses. Based in **Nairobi, Kenya**, I've shipped **50+ projects** and I care about one thing: **software that ships and stays running.**
 
-- 🏢 **Founder & CEO** of **[Spidey Labs Limited](https://spideylabs.tech)** — a registered Kenyan software company.
+- 🏢 **Founder & CEO** of **[Spidey Labs Limited](https://spideylabs.tech)** — a Kenyan software company.
 - 🌱 Building **[MkulimaOS](https://github.com/Spidey-Acer/mkulimaos)** — enterprise farm-management SaaS, **live on real Kenyan farms**, going head-to-head with decade-old global agritech.
 - 🧠 **Anthropic Claude Ambassador — Kenya**, growing one of East Africa's first Claude developer communities at [**claudekenya.org**](https://claudekenya.org).
-- 🎓 **MSc Computer Science (Cloud & AI)** candidate — University of East London.
 - 🌾 A **farmer** at heart — which is exactly why farm-tech that *actually works* matters to me.
 
 > *My rule is simple: don't just plan it — **ship it.***

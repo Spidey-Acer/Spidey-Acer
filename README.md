@@ -1,18 +1,19 @@
 <!-- ═══════════════════════════ HERO BANNER ═══════════════════════════ -->
 <p align="center">
-  <img src="./assets/header.svg" alt="Peter Kibet — Solo Founder · Claude Ambassador Kenya · Software Engineer" width="100%" />
+  <img src="./assets/header.svg" alt="Peter Kibet — Founder & CEO, Spidey Labs · Claude Ambassador · Kenya" width="100%" />
 </p>
 
 <!-- ═══════════════════════════ ANIMATED TAGLINE ═══════════════════════════ -->
 <p align="center">
   <a href="https://github.com/Spidey-Acer">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=720&lines=Solo+founder+shipping+production+AI+software;Building+MkulimaOS+for+real+Kenyan+farms;Claude+Community+Ambassador+%F0%9F%87%B0%F0%9F%87%AA;Don't+just+plan+it+%E2%80%94+ship+it." alt="Typing tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=760&lines=Founder+%26+CEO+of+Spidey+Labs+Limited;Building+MkulimaOS+for+real+Kenyan+farms;Anthropic+Claude+Ambassador%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA;50%2B+projects+shipped+%E2%80%94+don't+just+plan+it%2C+ship+it" alt="Typing tagline" />
   </a>
 </p>
 
 <!-- ═══════════════════════════ SOCIAL BADGES ═══════════════════════════ -->
 <div align="center">
 
+[![Spidey Labs](https://img.shields.io/badge/Spidey%20Labs-spideylabs.tech-22C55E?style=for-the-badge&logoColor=white)](https://spideylabs.tech)
 [![Website](https://img.shields.io/badge/peterkibet.co.ke-06140D?style=for-the-badge&logo=google-chrome&logoColor=4ADE80)](https://www.peterkibet.co.ke)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-kibet/)
 [![X](https://img.shields.io/badge/@spideyinc-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/spideyinc)
@@ -37,11 +38,12 @@
 </td>
 <td valign="top">
 
-I'm a **solo founder** who ships. Based in **Nairobi, Kenya**, I build production AI software that runs real businesses, not slide decks.
+I'm the **Founder & CEO of [Spidey Labs Limited](https://spideylabs.tech)** — a registered Kenyan software company building production AI systems for African businesses. Based in **Nairobi, Kenya**, I've shipped **50+ projects** and I care about one thing: **software that ships and stays running.**
 
-- 🏢 **Founder** of **Spidey Labs Limited** — building [**MkulimaOS**](https://github.com/Spidey-Acer/mkulimaos), a farm-management platform **live on real Kenyan farms**.
-- 🤝 **Co-founder** of [**Verify**](https://github.com/Spidey-Acer/verify) — a public health-practitioner verification hub for Kenya.
-- 🧠 **Anthropic Claude Community Ambassador** — growing one of East Africa's first Claude developer communities at [**claudekenya.org**](https://claudekenya.org).
+- 🏢 **Founder & CEO** of **[Spidey Labs Limited](https://spideylabs.tech)** — a registered Kenyan software company.
+- 🌱 Building **[MkulimaOS](https://github.com/Spidey-Acer/mkulimaos)** — enterprise farm-management SaaS, **live on real Kenyan farms**, going head-to-head with decade-old global agritech.
+- 🧠 **Anthropic Claude Ambassador — Kenya**, growing one of East Africa's first Claude developer communities at [**claudekenya.org**](https://claudekenya.org).
+- 🎓 **MSc Computer Science (Cloud & AI)** candidate — University of East London.
 - 🌾 A **farmer** at heart — which is exactly why farm-tech that *actually works* matters to me.
 
 > *My rule is simple: don't just plan it — **ship it.***
@@ -93,6 +95,10 @@ A committee of five Claude agents — VC, CTO, customer, coach & chair — stres
 </tr>
 </table>
 
+<p align="center">
+  <sub>Also shipping across <b>ML &amp; security</b> — <a href="https://github.com/Spidey-Acer/pest-detection-and-crop-analysis-">crop-disease detection</a> · <a href="https://github.com/Spidey-Acer/Malware-Detection-System">malware detection</a> · <a href="https://github.com/Spidey-Acer/ADAS-Low-Visibility-Hazard-Detection">ADAS hazard detection</a> · <a href="https://github.com/Spidey-Acer/cyber-security-analysis-portfolio">cybersecurity portfolio</a></sub>
+</p>
+
 <p align="center"><a href="https://github.com/Spidey-Acer?tab=repositories"><b>→ Browse all 75 repositories</b></a></p>
 
 ---
@@ -143,7 +149,8 @@ A committee of five Claude agents — VC, CTO, customer, coach & chair — stres
 
 ## 🧠 Beyond the code
 
-- 🎤 I run the **Claude Community Kenya** — talks, hackathons, and getting African developers building with AI.
+- 🎤 I run **Claude Community Kenya** — talks, hackathons, and getting African developers building with AI.
+- ♟️ I coach **chess for kids** (Chess Totos) and lead **Debugging Disciples**, a developer-faith community.
 - ✍️ I write about founding, shipping, and AI on [**Medium**](https://medium.com/@peterjamesonsmontana) and [**peterkibet.co.ke**](https://www.peterkibet.co.ke).
 - 🌍 I care about **African-built software solving African problems** — starting with agriculture and healthcare.
 

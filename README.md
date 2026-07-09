@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-kibet/)
 [![X](https://img.shields.io/badge/@spideyinc-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/spideyinc)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@peterjamesonsmontana)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peterkibet@spideyinc.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peter@spideylabs.tech)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Spidey-Acer&label=Profile%20views&color=22C55E&style=for-the-badge)
 [![Followers](https://img.shields.io/github/followers/Spidey-Acer?label=Follow&style=for-the-badge&color=4ADE80&logo=github)](https://github.com/Spidey-Acer)
@@ -157,7 +157,7 @@ I'm open to **collaboration, founding-team conversations, and select client work
 If you're shipping something that matters — or need someone who does — **reach out.**
 
 [![Website](https://img.shields.io/badge/peterkibet.co.ke-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.peterkibet.co.ke)
-[![Email](https://img.shields.io/badge/Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peterkibet@spideyinc.com)
+[![Email](https://img.shields.io/badge/Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peter@spideylabs.tech)
 
 <br/>
 
